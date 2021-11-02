@@ -25,8 +25,8 @@ Estou Cursando Programador Full-stack pelo Senai-SP.
   <img align="right" src="https://github.com/maaicondgl/maaicondgl/blob/main/umcart-logo.png">
 </a>
 <h3> Meus projetos</h3>
-  <a href="https://github.com/maaicondgl/maaicondgl/blob/main/gamegithub.png?raw=true" target="_blank">
-  <img align="left" src="https://maaicondgl.github.io/GameManiaPages/index.html">
+  <a href="https://maaicondgl.github.io/GameManiaPages/index.htmle" target="_blank">
+  <img align="left" src="https://github.com/maaicondgl/maaicondgl/blob/main/gamegithub.png?raw=truel">
 </a>
 
 
