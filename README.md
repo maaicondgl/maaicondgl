@@ -22,11 +22,11 @@ Estou Cursando Programador Full-stack pelo Senai-SP.
 <hr />
 <h3> Meus projetos</h3>
   <a href="https://maaicondgl.github.io/UmCart/" target="_blank">
-  <img align="right" src="https://github.com/maaicondgl/maaicondgl/blob/main/umcart-logo.png">
+  <img align="right" src="https://github.com/maaicondgl/maaicondgl/blob/main/umcart-logo.png" width"100px">
 </a>
 
   <a href="https://maaicondgl.github.io/GameManiaPages/index.htmle" target="_blank">
-  <img align="left" src="https://github.com/maaicondgl/maaicondgl/blob/main/gamegithub.png?raw=truel">
+  <img align="left" src="https://github.com/maaicondgl/maaicondgl/blob/main/gamegithub.png?raw=truel" width"100px">
 </a>
 
 
