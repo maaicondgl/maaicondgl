@@ -20,7 +20,7 @@ Estou Cursando Programador Full-stack pelo Senai-SP.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <hr />
-<h3> Meus projetos</h3>
+<h3> MEUS PROJETOS</h3>
   <a href="https://maaicondgl.github.io/UmCart/" target="_blank">
   <img align="center" src="https://github.com/maaicondgl/maaicondgl/blob/main/umcart-logo.png" width"100px" height="60px">
 </a>
