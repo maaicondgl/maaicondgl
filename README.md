@@ -1,6 +1,6 @@
 ## Olá, eu sou Maicon Douglas 
 
--💻 Estou de busca do Primeiro emprego na Área de tecnologia. <br> 
+-💻 Estou em busca do Primeiro emprego na Área de tecnologia. <br> 
 -📜🤓 Estudando Analise e desenvolvimento de Sistema e Programador Full-stack
 ##
 <div align="center">
