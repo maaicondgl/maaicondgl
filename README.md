@@ -1,6 +1,6 @@
 ## Olá, eu sou Maicon Douglas 
 
--💻 Estou em busca do Primeiro emprego na Área de tecnologia. <br> 
+-💻 Estagiario PagBank <br> 
 -📜🤓 Estudando Analise e desenvolvimento de Sistema e Programador Full-stack
 <div>
 
