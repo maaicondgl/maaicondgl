@@ -1,6 +1,6 @@
 ## Olá, eu sou Maicon Douglas 
 
--💻 Estagiario PagBank <br> 
+
 -📜🤓 Estudando Analise e desenvolvimento de Sistema e Programador Full-stack
 <div>
 
